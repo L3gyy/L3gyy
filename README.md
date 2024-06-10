@@ -1,8 +1,11 @@
 ## Opa, eae 👋
 
-- Meu nome é**L3gyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Meu nome é _L3gyy_
+# Estudo na Escola PPZ
 
 Here are some ideas to get you started:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3gyy&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
