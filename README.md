@@ -2,10 +2,8 @@
 
 # Meu nome é _L3gyy_
 # Estudo na Escola PPZ
-
+# Pretendo me formar e me tornar Dsenvolvedor de Jogos
 Here are some ideas to get you started:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3gyy&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3gyy&show_icons=true&theme=dark)
+
+Eu sou um aluno **EXEMPLAR**
 
 ![](https://media1.tenor.com/m/RUUrMJs9T1cAAAAC/hollow-knight.gif)
