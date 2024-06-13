@@ -1,8 +1,8 @@
 ## Opa, eae 👋
 
-# Meu nome é _L3gyy_
-# Estudo na Escola PPZ
-# Pretendo me formar e me tornar Dsenvolvedor de Jogos
+# Meu nome é _L3gyy_ 
+# Estudo na Escola PPZ 
+# Pretendo me formar e me tornar Dsenvolvedor de Jogos 
 **Sobre mim:**
 - 🙂 Atualmente estou criando um projeto;
 - 🎮 Atualmente estou aprendendo a programar;
