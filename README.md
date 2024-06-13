@@ -10,8 +10,8 @@ Sobre mim:
 - 💬 Fale comigo sobre desenvolvimento de jogos;
 - 📫 Como chegar até mim: ferrariluizgustavo06@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3gyy&show_icons=true&theme=dark)
-
 Eu sou um aluno **EXEMPLAR**
 
 ![](https://media1.tenor.com/m/RUUrMJs9T1cAAAAC/hollow-knight.gif)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3gyy&show_icons=true&theme=dark)
