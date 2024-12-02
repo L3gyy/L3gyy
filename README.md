@@ -8,7 +8,7 @@
 - 🎮 Atualmente estou aprendendo a programar;
 - 📑 Estou focado nos estudos;
 - 💬 Fale comigo sobre desenvolvimento de jogos;
-- 📫 Como chegar até mim: ferrariluizgustavo06@gmail.com
+- 📫 Como chegar até mim: ferrariluizgustavo6@gmail.com
 
 Eu sou um aluno **EXEMPLAR**
 
